@@ -1,0 +1,12 @@
+D:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.deps.json
+D:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.dll
+D:\C# OOP\Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.pdb
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.dll
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\refint\Database.dll
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.pdb
+D:\C# OOP\Unit Testing - Exercises\Database\obj\Debug\net6.0\ref\Database.dll

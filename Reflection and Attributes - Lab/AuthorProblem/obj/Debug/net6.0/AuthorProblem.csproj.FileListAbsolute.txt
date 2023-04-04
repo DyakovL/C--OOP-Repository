@@ -1,0 +1,15 @@
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.AssemblyReference.cache
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+D:\C# OOP\Reflection and Attributes - Lab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

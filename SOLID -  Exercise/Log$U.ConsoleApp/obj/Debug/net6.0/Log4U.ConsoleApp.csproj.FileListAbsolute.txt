@@ -1,0 +1,5 @@
+D:\C# OOP\SOLID -  Exercise\Log$U.ConsoleApp\obj\Debug\net6.0\Log4U.ConsoleApp.csproj.AssemblyReference.cache
+D:\C# OOP\SOLID -  Exercise\Log$U.ConsoleApp\obj\Debug\net6.0\Log4U.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\SOLID -  Exercise\Log$U.ConsoleApp\obj\Debug\net6.0\Log4U.ConsoleApp.AssemblyInfoInputs.cache
+D:\C# OOP\SOLID -  Exercise\Log$U.ConsoleApp\obj\Debug\net6.0\Log4U.ConsoleApp.AssemblyInfo.cs
+D:\C# OOP\SOLID -  Exercise\Log$U.ConsoleApp\obj\Debug\net6.0\Log4U.ConsoleApp.csproj.CoreCompileInputs.cache

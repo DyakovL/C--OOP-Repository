@@ -1,0 +1,5 @@
+D:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.AssemblyReference.cache
+D:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfoInputs.cache
+D:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.AssemblyInfo.cs
+D:\C# OOP\Reflection and Attributes - Exercise\ValidationAttributes\obj\Debug\net6.0\ValidationAttributes.csproj.CoreCompileInputs.cache

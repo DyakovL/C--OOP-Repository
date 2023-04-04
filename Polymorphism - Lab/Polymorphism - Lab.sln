@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "MathOperations\Operations.csproj", "{FEC02C4B-880F-4669-94E6-B13B090E115A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{8F897BB1-9392-4096-9E12-6AAFD25219A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "StartUp\Shapes.csproj", "{5AD34E3F-C6C0-431B-9C8A-D22FBBBDD979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC02C4B-880F-4669-94E6-B13B090E115A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC02C4B-880F-4669-94E6-B13B090E115A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC02C4B-880F-4669-94E6-B13B090E115A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC02C4B-880F-4669-94E6-B13B090E115A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F897BB1-9392-4096-9E12-6AAFD25219A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F897BB1-9392-4096-9E12-6AAFD25219A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F897BB1-9392-4096-9E12-6AAFD25219A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F897BB1-9392-4096-9E12-6AAFD25219A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD34E3F-C6C0-431B-9C8A-D22FBBBDD979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD34E3F-C6C0-431B-9C8A-D22FBBBDD979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD34E3F-C6C0-431B-9C8A-D22FBBBDD979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD34E3F-C6C0-431B-9C8A-D22FBBBDD979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28D9E4C-9B78-41AB-8F4E-617232767A39}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.csproj.AssemblyReference.cache
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.AssemblyInfoInputs.cache
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.AssemblyInfo.cs
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.csproj.CoreCompileInputs.cache
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\bin\Debug\net6.0\3. Raiding.exe
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\bin\Debug\net6.0\3. Raiding.deps.json
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\bin\Debug\net6.0\3. Raiding.runtimeconfig.json
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\bin\Debug\net6.0\3. Raiding.dll
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\bin\Debug\net6.0\3. Raiding.pdb
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.dll
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\refint\3. Raiding.dll
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.pdb
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\3. Raiding.genruntimeconfig.cache
+D:\C# OOP\Polymorphism - Exercise\3. Raiding\obj\Debug\net6.0\ref\3. Raiding.dll

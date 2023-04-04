@@ -1,0 +1,15 @@
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.exe
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\DefineAnInterfaceIPerson.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.deps.json
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.runtimeconfig.json
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.genruntimeconfig.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\DefineAnInterfaceIPerson.dll

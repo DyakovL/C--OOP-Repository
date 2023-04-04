@@ -1,0 +1,15 @@
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\bin\Debug\net6.0\DemoForCodeTrackerFromLecturer.exe
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\bin\Debug\net6.0\DemoForCodeTrackerFromLecturer.deps.json
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\bin\Debug\net6.0\DemoForCodeTrackerFromLecturer.runtimeconfig.json
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\bin\Debug\net6.0\DemoForCodeTrackerFromLecturer.dll
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\bin\Debug\net6.0\DemoForCodeTrackerFromLecturer.pdb
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.csproj.AssemblyReference.cache
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.AssemblyInfoInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.AssemblyInfo.cs
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.csproj.CoreCompileInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.dll
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\refint\DemoForCodeTrackerFromLecturer.dll
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.pdb
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\DemoForCodeTrackerFromLecturer.genruntimeconfig.cache
+D:\C# OOP\Reflection and Attributes - Lab\DemoForCodeTrackerFromLecturer\obj\Debug\net6.0\ref\DemoForCodeTrackerFromLecturer.dll

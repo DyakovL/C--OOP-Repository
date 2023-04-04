@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Log4U.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Log4U.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Log4U.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Log4U.Core/1.0.0": {
+      "type": "project",
+      "path": "../Log4U.Core/Log4U.Core.csproj",
+      "msbuildProject": "../Log4U.Core/Log4U.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Log4U.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lacho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C# OOP\\SOLID -  Exercise\\Log$U.ConsoleApp\\Log4U.ConsoleApp.csproj",
+      "projectName": "Log4U.ConsoleApp",
+      "projectPath": "D:\\C# OOP\\SOLID -  Exercise\\Log$U.ConsoleApp\\Log4U.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\lacho\\.nuget\\packages\\",
+      "outputPath": "D:\\C# OOP\\SOLID -  Exercise\\Log$U.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\C# OOP\\SOLID -  Exercise\\Log4U.Core\\Log4U.Core.csproj": {
+              "projectPath": "D:\\C# OOP\\SOLID -  Exercise\\Log4U.Core\\Log4U.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

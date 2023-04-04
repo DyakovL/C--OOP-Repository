@@ -1,0 +1,15 @@
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\bin\Debug\net6.0\4. Collector.exe
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\bin\Debug\net6.0\4. Collector.deps.json
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\bin\Debug\net6.0\4. Collector.runtimeconfig.json
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\bin\Debug\net6.0\4. Collector.dll
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\bin\Debug\net6.0\4. Collector.pdb
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.csproj.AssemblyReference.cache
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.AssemblyInfoInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.AssemblyInfo.cs
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.csproj.CoreCompileInputs.cache
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.dll
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\refint\4. Collector.dll
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.pdb
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\4. Collector.genruntimeconfig.cache
+D:\C# OOP\Reflection and Attributes - Lab\4. Collector\obj\Debug\net6.0\ref\4. Collector.dll

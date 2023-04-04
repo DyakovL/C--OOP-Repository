@@ -1,0 +1,15 @@
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.exe
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.deps.json
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\net6.0\MilitaryElite.pdb
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.AssemblyReference.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\refint\MilitaryElite.dll
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.pdb
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+D:\C# OOP\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\net6.0\ref\MilitaryElite.dll
